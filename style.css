@@ -1,0 +1,48 @@
+.logo h1 {
+  text-align: center;
+  text-shadow: 1 1 1 2;
+  /* line-height: ; */
+}
+
+.logo p {
+  text-align: center;
+  text-decoration: overline;
+  font-weight: bolder;
+}
+
+.container .navbar-nav img {
+  width: 20px;
+  height: 10px;
+}
+.container .navbar-nav a {
+  text-decoration: none;
+  color: black;
+}
+
+.container .row .card-footer {
+  text-align: center;
+}
+.container .row .col-lg-3 {
+  text-align: center;
+}
+.text-color-header {
+  background-color: rgba(0, 0, 0, 0.521);
+}
+.footer {
+  background-color: #000000b1;
+}
+.footer h3 {
+  color: #fff;
+}
+.footer p{
+  margin: 0;
+  padding: 0;
+  color: #282525;
+}
+.btn-buy-cart {
+  margin: 15px auto auto;
+}
+
+.container .card-shadow {
+  box-shadow: 3px 4px 10px black;
+}
